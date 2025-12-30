@@ -1,0 +1,1 @@
+export const apiUrl="https://wallhaven.cc/api/v1/search"
